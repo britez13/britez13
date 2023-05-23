@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [basement-challenge](https://github.com/britez13/basement-challenge)
 
-- 🌱 I’m currently learning **Vue, PHP, Laravel and MySQL**
+- 🌱 I’m currently learning **Vue.js, PHP, Laravel and MySQL**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-v1-delta-inky.vercel.app/](https://portfolio-v1-delta-inky.vercel.app/)
 
