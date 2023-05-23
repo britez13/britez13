@@ -10,7 +10,6 @@
 
 - 💬 Ask me about **HTML, CSS, JS, React.js**
 
-- 📫 How to reach me **florenciobritez49@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
