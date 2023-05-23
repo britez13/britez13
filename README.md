@@ -1,6 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Florencio</h1>
 <h3 align="center">A passionate Front-end developer from Paraguay</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=britez13&label=Profile%20views&color=0e75b6&style=flat" alt="britez13" /> </p>
 
 - 🔭 I’m currently working on [basement-challenge](https://github.com/britez13/basement-challenge)
 
@@ -8,8 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-v1-delta-inky.vercel.app/](https://portfolio-v1-delta-inky.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JS, React.js**
-
+- 💬 Ask me about **HTML, CSS, Tailwind, JS, React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=britez13&show_icons=true&locale=en" alt="britez13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=britez13&" alt="britez13" /></p>
+
 
