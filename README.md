@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Florencio</h1>
 <h3 align="center">A passionate Front-end developer from Paraguay</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=britez13&label=Profile%20views&color=0e75b6&style=flat" alt="britez13" /> </p>
 
 - 🌱 I’m currently learning **Vue.js, PHP, Laravel and MySQL**
 
