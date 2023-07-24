@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florencio</h1>
-<h3 align="center">A passionate Front-end developer from Paraguay</h3>
+<h3 align="center">Front-end developer</h3>
 
 
 - 🌱 I’m currently learning **Vue.js, PHP, Laravel and MySQL**
